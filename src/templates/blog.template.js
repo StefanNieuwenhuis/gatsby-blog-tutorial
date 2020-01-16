@@ -1,6 +1,6 @@
 import { graphql, Link } from "gatsby"
 import React from "react"
-import Layout from "../components/Layout"
+import Layout from "../components/layout"
 import "./blog.template.css"
 
 const Template = ({ data }) => {
